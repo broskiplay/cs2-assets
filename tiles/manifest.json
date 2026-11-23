@@ -1,0 +1,80 @@
+{
+ "ancient": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "anubis": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "cache": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "cbble": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "dust2": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "inferno": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "mirage": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "nuke": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "nuke-lower": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "overpass": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "train": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "vertigo": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ },
+ "vertigo-lower": {
+  "size": 2048,
+  "tile": 256,
+  "minZoom": 0,
+  "maxZoom": 3
+ }
+}

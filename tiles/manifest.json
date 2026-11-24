@@ -17,12 +17,6 @@
   "minZoom": 0,
   "maxZoom": 3
  },
- "cbble": {
-  "size": 2048,
-  "tile": 256,
-  "minZoom": 0,
-  "maxZoom": 3
- },
  "dust2": {
   "size": 2048,
   "tile": 256,
@@ -54,12 +48,6 @@
   "maxZoom": 3
  },
  "overpass": {
-  "size": 2048,
-  "tile": 256,
-  "minZoom": 0,
-  "maxZoom": 3
- },
- "train": {
   "size": 2048,
   "tile": 256,
   "minZoom": 0,
